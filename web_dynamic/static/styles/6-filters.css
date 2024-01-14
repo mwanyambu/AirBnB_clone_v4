@@ -77,11 +77,11 @@ button:hover {
 .amenities .popover ul{
     margin: 0px;
 }
-
+/*
 input[type="checkbox"] {
     margin-right: 10px;
 }
-
+*/
 .locations .popover {
     margin-top: 0%;
 }
@@ -105,3 +105,11 @@ input[type="checkbox"] {
 .locations:hover .popover {
     visibility: visible;
 }
+/*
+#api_status {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #cccccc;
+}
+*/
